@@ -10,6 +10,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [Official Skill Collections](#official-skill-collections)
 - [Community Skill Collections](#community-skill-collections)
 - [Skills by Category](#skills-by-category)
+- [Tools](#tools)
 <!-- toc-end -->
 
 ## Specification and Official Docs
@@ -222,6 +223,40 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Writes status reports, leadership updates, and newsletters in set formats.
 - [seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) - Audits a site for technical and on-page SEO issues.
 - [writing-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/writing-guidelines) - Reviews docs and prose against Vercel's writing guidelines.
+
+## Tools
+
+### Authoring
+
+- [Skill Template](https://github.com/anthropics/skills/tree/main/template) - Minimal SKILL.md template from Anthropic's skills repository.
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Anthropic skill for creating, editing, and evaluating skills.
+- [skill-improver](https://github.com/trailofbits/skills/tree/main/plugins/code-improver/skills/skill-improver) - Runs a review-and-fix loop over a skill until review findings are resolved.
+- [skill-writer](https://github.com/getsentry/skills/tree/main/skills/skill-writer) - Creates and iterates on skills following the Agent Skills specification.
+
+### Installers and Loaders
+
+- [gh skill](https://cli.github.com/manual/gh_skill) - GitHub CLI command group for searching, installing, and updating skills.
+- [openskills](https://github.com/numman-ali/openskills) - npm CLI that installs skills and exposes them to agents without native skill support.
+- [skill-installer](https://github.com/openai/skills/tree/main/skills/.system/skill-installer) - Codex system skill that installs skills from the curated list or a GitHub path.
+- [skillport](https://github.com/gotalab/skillport) - Manages skills once and serves them to agents through a CLI or MCP.
+- [skills](https://github.com/vercel-labs/skills) - The `npx skills` CLI for adding skills from GitHub repositories to many agents.
+- [skillz](https://github.com/intellectronica/skillz) - MCP server that exposes SKILL.md skills to clients without native support.
+
+### Validation and Security
+
+- [agent-scan](https://github.com/snyk/agent-scan) - Scans agents, MCP servers, and skills for prompt injection and other risks.
+- [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Static and behavioral scanner for security issues in agent skills.
+- [skill-scanner (Sentry)](https://github.com/getsentry/skills/tree/main/skills/skill-scanner) - Skill that reviews other skills for injection and unsafe instructions.
+- [skills-ref](https://github.com/agentskills/agentskills/tree/main/skills-ref) - Reference Python library and CLI that validates SKILL.md files against the spec.
+
+### Directories and Registries
+
+- [Claude Code Plugin Marketplaces](https://code.claude.com/docs/en/plugin-marketplaces) - How to publish and install skills through Claude Code plugin marketplaces.
+- [claude-plugins.dev](https://claude-plugins.dev/skills) - Searchable index of skills and plugins found on GitHub.
+- [skills.sh](https://skills.sh) - Directory and leaderboard of skills installable with `npx skills`.
+- [SkillsMP](https://skillsmp.com) - Search engine for skills collected from public GitHub repositories.
+- [Smithery Skills](https://smithery.ai/skills) - Skill listings on the Smithery registry.
+- [Tessl Registry](https://tessl.io/registry) - Package registry for versioned agent skills.
 
 ## Contributing
 
