@@ -11,6 +11,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [Community Skill Collections](#community-skill-collections)
 - [Skills by Category](#skills-by-category)
 - [Tools](#tools)
+- [Guides](#guides)
 <!-- toc-end -->
 
 ## Specification and Official Docs
@@ -257,6 +258,21 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [SkillsMP](https://skillsmp.com) - Search engine for skills collected from public GitHub repositories.
 - [Smithery Skills](https://smithery.ai/skills) - Skill listings on the Smithery registry.
 - [Tessl Registry](https://tessl.io/registry) - Package registry for versioned agent skills.
+
+## Guides
+
+- [Agent Skills Best Practices (agentskills.io)](https://agentskills.io/skill-creation/best-practices) - Scoping, instruction writing, and structure advice from the spec site.
+- [Agent Skills Quickstart](https://agentskills.io/skill-creation/quickstart) - Walkthrough for writing a first skill.
+- [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/) - Examination of how Claude selects and loads skills internally.
+- [Claude Skills Are Awesome, Maybe a Bigger Deal Than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) - Simon Willison's analysis of the skills model and its token efficiency.
+- [Equipping Agents for the Real World with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Anthropic engineering post on the design of skills and progressive disclosure.
+- [Evaluating Skills](https://agentskills.io/skill-creation/evaluating-skills) - How to test whether a skill improves agent results.
+- [GitHub Copilot Now Supports Agent Skills](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/) - GitHub changelog entry on skill support across Copilot surfaces.
+- [Introducing Agent Skills](https://claude.com/blog/skills) - Anthropic announcement of skills in Claude apps, Claude Code, and the API.
+- [Optimizing Skill Descriptions](https://agentskills.io/skill-creation/optimizing-descriptions) - Writing descriptions so agents activate a skill at the right time.
+- [Skill Authoring Best Practices (Claude)](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Anthropic guidance on conciseness, structure, and testing across models.
+- [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - Anthropic PDF covering skill planning, writing, testing, and distribution.
+- [Using Scripts in Skills](https://agentskills.io/skill-creation/using-scripts) - Bundling executable scripts with a skill and calling them from instructions.
 
 ## Contributing
 
