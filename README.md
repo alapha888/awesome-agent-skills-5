@@ -12,6 +12,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [Skills by Category](#skills-by-category)
 - [Tools](#tools)
 - [Guides](#guides)
+- [Related Lists](#related-lists)
 <!-- toc-end -->
 
 ## Specification and Official Docs
@@ -273,6 +274,14 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [Skill Authoring Best Practices (Claude)](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Anthropic guidance on conciseness, structure, and testing across models.
 - [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - Anthropic PDF covering skill planning, writing, testing, and distribution.
 - [Using Scripts in Skills](https://agentskills.io/skill-creation/using-scripts) - Bundling executable scripts with a skill and calling them from instructions.
+
+## Related Lists
+
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Resources for Claude Code, including skills, hooks, and commands.
+- [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) - List of Claude skills, resources, and tools.
+- [awesome-claude-skills (travisvn)](https://github.com/travisvn/awesome-claude-skills) - List of Claude skills and resources with a focus on Claude Code.
+- [awesome-copilot](https://github.com/github/awesome-copilot) - Community instructions, agents, and skills for GitHub Copilot.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Collection of over 1000 skills from vendor teams and the community.
 
 ## Contributing
 
