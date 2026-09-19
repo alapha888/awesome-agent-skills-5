@@ -8,6 +8,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 
 - [Specification and Official Docs](#specification-and-official-docs)
 - [Official Skill Collections](#official-skill-collections)
+- [Community Skill Collections](#community-skill-collections)
 <!-- toc-end -->
 
 ## Specification and Official Docs
@@ -73,6 +74,18 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [supabase/agent-skills](https://github.com/supabase/agent-skills) - Supabase skills for the Supabase platform and Postgres best practices.
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits skills for security audits, static analysis, fuzzing, and smart contract review.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel skills for React performance, UI review, writing review, and deployment.
+
+## Community Skill Collections
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Engineering workflow skills covering specs, planning, testing, review, and shipping.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - Skills for full-stack roles such as framework specialists, DevOps, and testing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Over 160 skills for scientific Python libraries and research databases in biology, chemistry, and medicine.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Skills for Obsidian Markdown, Bases, JSON Canvas, and the Obsidian CLI.
+- [letta-ai/skills](https://github.com/letta-ai/skills) - Shared skill repository from Letta for Letta Code, Claude Code, Codex, and other agents.
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Skills on context engineering, memory systems, multi-agent patterns, and evaluation.
+- [obra/superpowers](https://github.com/obra/superpowers) - Development methodology skills for brainstorming, planning, TDD, debugging, and subagent workflows.
+- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - Skill registry that validates and scans submitted skills before listing them.
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugin marketplace bundling skills, agents, and commands for several agent harnesses.
 
 ## Contributing
 
