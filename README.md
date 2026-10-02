@@ -82,6 +82,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 ## Community Skill Collections
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Engineering workflow skills covering specs, planning, testing, review, and shipping.
+- [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) - Five English productivity skills for AI coding agents: meeting notes, code review checklist, deep research framework, technical writing proofreading, and Git commit messages.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - Skills for full-stack roles such as framework specialists, DevOps, and testing.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Over 160 skills for scientific Python libraries and research databases in biology, chemistry, and medicine.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Skills for Obsidian Markdown, Bases, JSON Canvas, and the Obsidian CLI.
